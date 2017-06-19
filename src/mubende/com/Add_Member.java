@@ -469,33 +469,8 @@ comboBox_1.addActionListener(new ActionListener(){
 			} catch (SQLException e) {
 				
 				e.printStackTrace();
+				
 			}
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			}
 			
 		});
